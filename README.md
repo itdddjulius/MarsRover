@@ -89,4 +89,4 @@
 		// === J.O. 11-JAN-2021 - v1.0 - Param interpretation 
     	// === J.O. 11-JAN-2021 - v1.0 - Configure LOST Spin functionality
 	  	// === J.O. ===============================================================================================================================
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/itdddjulius/MarsRover/blob/main/ScreenShot.png)
